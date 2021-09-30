@@ -26,5 +26,6 @@ public class SpellCheck {
         }else{
             System.out.println("The spelling is wrong");
         }
+        sc.close();
     }
 }
