@@ -17,5 +17,9 @@ public class DisplayCharacter {
         System.out.println(dig3+"-"+ch3);
         System.out.println(dig4+"-"+ch4);
         sc.close();
+<<<<<<< HEAD
+=======
+        
+>>>>>>> a99ddd4c72b45e995669c7d9e4df2f18763f09c1
     }
 }
