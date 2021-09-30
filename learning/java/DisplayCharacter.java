@@ -5,6 +5,6 @@ public class DisplayCharacter {
         Scanner sc=new Scanner(System.in);
 
         sc.close();
-        //kndkn"
+        
     }
 }
